@@ -3,8 +3,8 @@ This was my first task in the CodeBerry programming school.
 
 ## Built With
 - JSBin
-- -HTML
-- -CSS
+- HTML
+- CSS
 
-##Live Version
+## Live Version
 https://tapodig.github.io/Medium-Article/
