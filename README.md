@@ -1,4 +1,4 @@
-# Project Title
+# Medium Article
 This was my first task in the CodeBerry programming school. I had to copy a medium article.
 
 ## Built With
